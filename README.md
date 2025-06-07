@@ -45,8 +45,8 @@ X BASS revolutionizes portable audio through:
 
 **    Image Sources ** 
 All assets comply with commercial licenses:  
-1.   Product Shots:   [Shutterstock Premium](https://www.shutterstock.com) (License: S 123456).  
-2.   Acoustic Diagrams:   Original CAD renders (© X BASS 2025).  
+1.   Product Shots:   Midjourney.com 
+2.   Acoustic Diagrams:   DALL-E (© X BASS 2025).  
 3.   Lighting Demos:   In field test footage (CC BY 4.0).  
 4.   UI Mockups:   Designed in [Figma Community](https://figma.com/@x bass).  
 
